@@ -23,6 +23,7 @@
     "googleapis": "^4.0.0",
     "mongoose": "^4.4.12",
     "njwt": "^0.2.3",
+    "node-json-minify": "^1.0.0",
     "restify": "^4.0.4",
     "restify-jwt": "^0.4.0"
   }
